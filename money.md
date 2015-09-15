@@ -12,6 +12,7 @@ Most of us are freelancers earning our own money, but we all put some of that mo
 
 As we’ve developed our tools and processes, we’ve seen that an increasing number of people have access to spend the money, and more people are contributing as well.
 
+![](https://github.com/enspiral/guides/blob/master/images/money-diagram.jpg)
 
 ## How money comes in
 

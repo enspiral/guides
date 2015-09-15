@@ -7,7 +7,7 @@ This is an experimental new collection of "how Enspiral works" content. Stay tun
 * [How Money Works at Enspiral](https://github.com/enspiral/guides/blob/master/money.md)
 * more coming soon...
 
-**About these articles"**
+**About these articles**
 
 A "foundational article" is a landing page - an introduction to the concept, then a series of links to stories and recipes with more detailed information.
 

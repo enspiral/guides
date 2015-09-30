@@ -23,7 +23,7 @@ The Project Kitchen method gives participants concrete ideas and encouragement f
 4. **Who has projects?** Ask the group who has projects they would like help with. Four is ideal for a 2-hour session. If you have more projects than this then the group can make a decision of what projects to prioritise [see also : [Roomio](insert link here)]. Once you've decided what projects to engage in, the Project Kitchen choreography can begin with the first project.
 
 5. **Choreography**
- * **Context : **Project holder talks about their project - giving the context the group needs to understand what they're working on and what burning question or issue they might like the group's brains on. **[4 mins]**
+ * **Context :** Project holder talks about their project - giving the context the group needs to understand what they're working on and what burning question or issue they might like the group's brains on. **[4 mins]**
 
  * **Q&A :** The group asks the project holder rapid-fire questions to get more of the background. Both the questions and answers should be as concise as possible to maximise the number of questions answered. The Chef can intervene if someone is talking rather than questioning. **[4 mins]**
 

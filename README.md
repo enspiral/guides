@@ -5,7 +5,7 @@ This is an experimental new collection of "how Enspiral works" content. Stay tun
 ## Foundational articles:
 
 * [How Money Works at Enspiral](https://github.com/enspiral/guides/blob/master/money.md)
-* more coming soon...
+* [Collaborating Better](https://github.com/enspiral/guides/blob/master/collaborating-better.md)
 
 **About these articles**
 

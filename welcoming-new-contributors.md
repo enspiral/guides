@@ -19,9 +19,9 @@ Based on what you learned in Part 1, suggest three people in the network that th
 ## Part 3 : Tour of the house
 If both parties are based in Wellington this could include Enspiral Space, otherwise it will just be a tour of our online spaces. The idea with this part is that it’s the difference between getting given keys to a house and left to your own devices, and being given a personal tour about how everything works. It might also be worth referring them to the **[Enspiral Comms Guide](https://docs.google.com/document/d/1Kj-BI59dqKNK2b1CQ7ZBHcQgFQadh-jQlUxqRTLfQ-8/edit)** at this time.
 
-* **Enspiral website** - where to find essential info. Includes info.enspiral.com
+* **Enspiral website** - where to find essential info. Includes info.enspiral.com and Orientation Doc there.
 
-* **Slack** - what channels they might like to join, what the pattern of interaction is.
+* **Slack** - what channels they might like to join, what the pattern of interaction is, filling out their profiles.
 
 * **Loomio** - what discussions are happening at the moment they might be interested in. Advice around commenting, starting discussions and attention economy.
 

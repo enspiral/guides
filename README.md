@@ -27,3 +27,11 @@ A **_Story_** is a narrative form which reveals the context and purpose from whi
 * How did that change how you operate - what you did and how you did it?
 * What impact has this change in practice had?
 * What are the learning edges right now?
+
+## Contributing
+
+`enspiral/guides` is an **OPEN Open Source Project**. This means that:
+
+> Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit. This project is more like an open wiki than a standard guarded open source project.
+
+See the [contribution guide](./CONTRIBUTING.md) for more details.

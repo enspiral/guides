@@ -34,4 +34,4 @@ A **_Story_** is a narrative form which reveals the context and purpose from whi
 
 > Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit. This project is more like an open wiki than a standard guarded open source project.
 
-See the [contribution guide](./CONTRIBUTING.md) for more details.
+See the [contribution guide](./CONTRIBUTING.md) for more details and the [Using GitHub for documentation at Enspiral](https://github.com/enspiral/guides/blob/master/github-for-documentation.md) guide for simple and fun video instructions to learn to use GitHub for this purpose.

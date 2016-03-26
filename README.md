@@ -7,6 +7,8 @@ This is an experimental new collection of "how Enspiral works" content. Stay tun
 * [How Money Works at Enspiral](https://github.com/enspiral/guides/blob/master/money.md)
 * [Collaborating Better](https://github.com/enspiral/guides/blob/master/collaborating-better.md)
 * [Communications Guidelines](https://github.com/enspiral/guides/blob/master/comms.md)
+* [Using GitHub for documentation at Enspiral](https://github.com/enspiral/guides/blob/master/github-for-documentation.md)
+* [Welcoming new Contributors](https://github.com/enspiral/guides/blob/master/welcoming-new-contributors.md)
 
 **About these articles**
 
